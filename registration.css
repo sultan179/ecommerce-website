@@ -1,0 +1,92 @@
+  
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+   
+  background-color:white;
+ 
+ 
+
+  font-size: 18px;
+  
+}  
+
+.container {  
+    padding: 5px;  
+ /* background-color:rgb(9, 106, 218);*/  
+
+/*  /background: url(bg4.jpg);*/
+
+  
+}  
+label{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: normal;
+}
+  
+input[type=text], input[type=password], input[type=email], textarea {  
+text-align: left;
+width: 100%;
+padding: 10px; 
+background: #c7ecf5;
+     
+   
+}  
+
+ div {  
+            padding: 1px 0;  
+         }  
+hr {  
+  border: 1px solid #eee9e9;  
+  margin-bottom: 25px;  
+}  
+h1{
+   
+    text-align: center;
+    text-shadow:rgb(243, 239, 239);
+    font-size: 35px;
+    font-weight: 600;
+    
+}
+h2{
+    
+    position: absolute;
+    left: 180px; 
+    font-size:35px ;
+    font-weight:bold;
+    font-style: normal;
+    background-color:white;
+    color: rgb(10, 10, 10);
+    
+}
+h3{
+    position: absolute;
+    left: 300px;
+    padding-top: 70px;
+
+    font-size:35px ;
+    font-weight:bold;
+    font-style: normal;
+    background-color:white;
+    color: rgb(10, 10, 10);
+    
+}
+
+
+
+
+.registerbtn {  
+  background-color: #375ea7; 
+  width: 100px; 
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 100%;  
+  opacity: 0.8;  
+}  
+.registerbtn:hover {  
+  opacity: 2;  
+}  
+ 
